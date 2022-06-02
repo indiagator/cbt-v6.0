@@ -1,0 +1,71 @@
+h1,h2,h3,h4,h5,h6{
+    font-family:Corbel;
+    color: darkslategrey;
+    font-size: xx-large;
+}
+
+p{
+    font-family: Corbel;
+    color: black;
+    font-size: medium;
+}
+
+#login_form{
+
+
+    padding: 10px;
+    border: solid;
+    border-width: medium;
+    border-color: darkslategrey;
+
+}
+
+#signup_form{
+
+    padding: 10px;
+    border: solid;
+    border-width: medium;
+    border-color: indigo;
+
+
+}
+
+#logout-form{
+
+    padding: 10px;
+    border: solid;
+    border-width: medium;
+    border-color: indigo;
+
+
+}
+
+#userprofile_edit_form{
+
+    padding: 10px;
+    border: solid;
+    border-width: medium;
+    border-color: indigo;
+
+
+}
+
+.central_div{
+
+    padding: 10px;
+    border: solid;
+    border-width: medium;
+    border-color: grey;
+
+}
+
+
+#user_details{
+
+    padding: 10px;
+    border: solid;
+    border-width: medium;
+    border-color: grey;
+
+
+}

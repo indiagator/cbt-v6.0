@@ -1,0 +1,13 @@
+{"city":"Bangalore","company":"TCS","country":"India","emailid":"janak@gmail.com","name":"janak kumar","password":"1234@765ert","phonenumber":"654676573","username":"janak","usertype":"buyer"}
+{"city":"Dhaka","company":"Cognizant","country":"Bangladesh","emailid":"manoj@gmail.com","name":"manoj kumar","password":"abc@123","phonenumber":"9891619469","username":"manoj","usertype":"buyer"}
+{"city":"Pune","company":"Miristan","country":"India","emailid":"jag@yahoo.com","name":"jagadeesh kishore","password":"123@abc","phonenumber":"874537892","username":"jagadeesh","usertype":"buyer"}
+{"city":"Berlin","company":"Accenture","country":"Germany","emailid":"hema@gmail.com","name":"hema kumari","password":"abc@123","phonenumber":"654645756","username":"hema","usertype":"buyer"}
+{"city":"San Francisco","company":"Cognizant","country":"USA","emailid":"harsha@tutu.ru","name":"harsha negi","password":"bf@780","phonenumber":"3456789123","username":"harsha","usertype":"buyer"}
+{"city":"Mumbai","company":"TCS","country":"India","emailid":"mamatha@yahoo.com","name":"Mamatha Devi","password":"fgdfkj@67865","phonenumber":"9310456987","username":"mamatha","usertype":"buyer"}
+{"city":"Shimla","company":"TCS","country":"India","emailid":"sowmya@gmail.com","name":"Sowmya Lokula","password":"fdskhbfs@1213342","phonenumber":"9872345123","username":"sowmya","usertype":"buyer"}
+{"city":"Pune","company":"TCS","country":"India","emailid":"suhel@yahoo.com","name":"Suhel Allugundu","password":"jhg@456","phonenumber":"536457678","username":"suhel","usertype":"seller"}
+{"city":"Kathmandu","company":"HemantExim","country":"Nepal","emailid":"hemant@gmail.com","name":"Hemant Machani","password":"8675@erth","phonenumber":"5467686667","username":"hemant","usertype":"seller"}
+{"city":"Singapore","company":"NewMorning Exports","country":"Singapore","emailid":"kavya@yahoo.com","name":"Kavya Gundu","password":"5679@bchg","phonenumber":"4355667787","username":"kavya","usertype":"seller"}
+{"city":"San Francisco","company":"Robust Trade","country":"USA","emailid":"nikhil@yahoo.com","name":"Nikhil Arvind","password":"abc@123","phonenumber":"5346547777","username":"nikhil","usertype":"seller"}
+{"city":"Moscow","company":"Meenakshi Trades","country":"Russia","emailid":"meenakshi@gmail.com","name":"Meenkashi Devara","password":"789@qwed","phonenumber":"56567657658","username":"meenakshi","usertype":"both"}
+{"city":"Miami","company":"Sriraj Aluminium","country":"USA","emailid":"sriraj@tutu.ru","name":"Sriraj Kumar","password":"abcft@1234","phonenumber":"4565464765","username":"sriraj","usertype":"both"}
